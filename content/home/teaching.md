@@ -1,6 +1,6 @@
 +++
 # Projects widget.
-widget = "projects"
+widget = "portfolio"
 active = true
 date = 2019-06-01
 

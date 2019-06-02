@@ -27,7 +27,7 @@ abstract = "I find that the stock market participation puzzle is largely explain
 abstract_short = "Homeownership and Stock Market Participation are tightly connected. Changes in house tenure induce stock market exit, which explains the low stock market participation rate among US households"
 
 # Featured image thumbnail (optional)
-image_preview = "stockpartwhousing_modelfit.pdf"
+#image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
