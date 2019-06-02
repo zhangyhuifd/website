@@ -8,7 +8,7 @@ draft = false
 tags = ["teaching"]
 categories = []
 
-summary = "PhD Computationl Economics Guest Lecture"
+summary = "Computational Economics Guest Lecture"
 
 
 # Featured image
