@@ -18,10 +18,12 @@
   url = "#workinprogress"
   weight = 30
 
-  [[CV]]
-    name = "CV"
-    url = "https://www.dropbox.com/s/sxd6f146c1hm47y/cv_academic.pdf?dl=0"
-    weight = 100
+[[main]]
+  name = "CV"
+  url = "https://www.dropbox.com/s/sxd6f146c1hm47y/cv_academic.pdf?dl=0"
+  weight = 100
+
+
 # [[main]]
 #  name = "Publications"
 #  url = "#publications"
