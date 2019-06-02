@@ -1,6 +1,6 @@
 +++
-title = "PhD Macroecomic Theory (TA)"
-date = 2019-06-01
+title = "PhD Macro Theory "
+date = 2019-05-01
 draft = false
 
 # Tags and categories
@@ -8,7 +8,7 @@ draft = false
 tags = ["teaching"]
 categories = []
 
-summary = "Handouts, problem sets and solution from the discussion sections in macroeonomic theory at UW-Madison."
+summary = "TA material"
 
 
 # Featured image
