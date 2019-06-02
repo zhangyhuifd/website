@@ -62,7 +62,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -71,3 +71,5 @@ user_groups:
 ---
 
 I am a fourth-year PhD student at the University of Wisconsin - Madison in Economics and Finance. My research interests are in macroeconomics, household finance, housing and portfolio choice theory.
+
+For more, see my [CV](https://www.dropbox.com/s/sxd6f146c1hm47y/cv_academic.pdf?dl=0)
