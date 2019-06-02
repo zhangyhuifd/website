@@ -33,6 +33,9 @@ education:
   - course: MPhil in Economics
     institution: University of Oslo, Norway
     year: 2014
+  - course: BA in Economics
+    institution: University of Bergen, Norway
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
