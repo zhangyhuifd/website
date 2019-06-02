@@ -1,5 +1,5 @@
 +++
-title = "The Effect of Homeownership on the Option Value of Regional Migration"
+title = "Household Stock Market Participation and Exit in the US: The Role of Homeownership"
 
 # Date first published.
 date = "2019-05-15"
@@ -41,7 +41,7 @@ projects = []
 # Links (optional).
 url_pdf = "https://www.dropbox.com/s/ofsmwfxen0dzlh2/StockParticipationWithHousing.pdf?dl=0"
 url_preprint = ""
-url_code = "https://github.com/eirikeb/portchoicewhousing"
+url_code = "https://github.com/eirikeb/portchoicehousing"
 url_dataset = ""
 url_project = ""
 url_slides = "https://www.dropbox.com/s/mlygmb85tjayh5k/Brandsaas_slides.pdf?dl=0"
