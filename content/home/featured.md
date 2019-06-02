@@ -35,6 +35,17 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 3
 
+  # Filter by publication type.
+  # -1: Any
+  #  0: Uncategorized
+  #  1: Conference proceedings
+  #  2: Journal
+  #  3: Work in progress
+  #  4: Technical report
+  #  5: Book
+  #  6: Book chapter
+  publication_type = "3"
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
