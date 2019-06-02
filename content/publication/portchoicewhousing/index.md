@@ -5,7 +5,7 @@ title = "The Effect of Homeownership on the Option Value of Regional Migration"
 date = "2019-05-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Florian Oswald"]
+authors = ["Eirik Eylands Brandsaas"]
 
 # Publication type.
 # Legend:
@@ -19,12 +19,12 @@ authors = ["Florian Oswald"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "accepted Quantitative Economics"
-publication_short = "QE"
+publication = "Working Paper"
+publication_short = "WP"
 
 # Abstract and optional shortened version.
-abstract = "This paper estimates a lifecycle model of consumption, housing choice and migration in the presence of aggregate and regional shocks, using the Survey of Income and Program Participation (SIPP). The model delivers structural estimates of moving costs by ownership status, age and family size that complement the previous literature. Using the model I first show that migration elasticities vary substantially between renters and owners, and I estimate the consumption value of having the option to migrate across regions when there are regional shocks. This value is 19% of lifetime consumption on average, and it varies substantially with household type. (This paper previously circulated as Regional Shocks, Migration and Homeownership)"
-abstract_short = "Homeownership and Migration are tightly connected. Owners have higher moving costs and react differently to regional shocks."
+abstract = "I find that the stock market participation puzzle is largely explained by homeownership, high exit rates among stock market participants, and per-period participation costs. Panel data reveal that 20% of participating US households exit over two years, and that exit is associated with changes in homeownership. I solve a life-cycle portfolio choice model  with per-period stock market participation costs and a rent/own house tenure decision. The combination of per-period costs and housing means that 'house poor households with high leverage prefer to build home equity instead of saving in stocks and this explains the low participation rate among the middle-aged. Further, the transition from renting to owning increase the probability of exit, explaining the low participation and high exit rate of young households. The estimated model jointly matches the participation rate, homeownership rate, net worth and conditional portfolio weights over the life cycle. Housing reduces the unexplained participation gap between the model and the data by 75%, compared to a model without housing."
+abstract_short = "Homeownership and Stock Market Participation are tightly connected. Changes in house tenure induce stock market exit, which explains the low stock market participation rate among US households"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,19 +39,19 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/homeownership.pdf"
+url_pdf = "https://www.dropbox.com/s/ofsmwfxen0dzlh2/StockParticipationWithHousing.pdf?dl=0"
 url_preprint = ""
-url_code = "https://github.com/floswald/migration"
+url_code = "https://github.com/eirikeb/portchoicewhousing"
 url_dataset = ""
 url_project = ""
-url_slides = "https://www.dropbox.com/s/jmadqagmuk4ojs2/slides-OECD.pdf?dl=0"
+url_slides = "https://www.dropbox.com/s/mlygmb85tjayh5k/Brandsaas_slides.pdf?dl=0"
 url_video = ""
 url_poster = ""
 url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Quantitative Economics", url = "http://qeconomics.org/ojs/index.php/qe"}, {name = "Online Appendix", url = "pdf/homeownership-appendix.pdf"}]
+# url_custom = [{name = "Quantitative Economics", url = "http://qeconomics.org/ojs/index.php/qe"}, {name = "Online Appendix", url = "pdf/homeownership-appendix.pdf"}]
 
 # Does the content use math formatting?
 math = false
@@ -62,7 +62,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = "Mobility 🌍 and Homeowernship 🏡"
+image = "stockpartwhousing_modelfit.pdf"
+caption = "Estimated Model Fit"
 
 +++
