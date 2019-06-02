@@ -13,7 +13,7 @@ weight = 45
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/teaching/`.
-folder = "teaching"
+folder = "content/teaching"
 
 # View.
 # Customize how projects are displayed.
