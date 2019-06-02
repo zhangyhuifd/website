@@ -72,4 +72,4 @@ user_groups:
 
 I am a fourth-year PhD student at the University of Wisconsin - Madison in Economics and Finance. My research interests are in macroeconomics, household finance, housing and portfolio choice theory.
 
-For more, see my [CV](https://www.dropbox.com/s/sxd6f146c1hm47y/cv_academic.pdf?dl=0)
+For more about my background see my [CV](https://www.dropbox.com/s/sxd6f146c1hm47y/cv_academic.pdf?dl=0).
