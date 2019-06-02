@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Eirik Eylands Brandsaas
 
 # Username (this should match the folder name)
 authors:
@@ -10,29 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Economics & Finance
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Wisconsin-Madison
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include macroeconomics, household finance, housing and families.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Macroeconomics
+- Household Finance
+- Finance
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: PhD in Economics and Finance
+    institution: University of Wisconsin - Madison
+    year: 2020
+  - course: MPhil in Economics
+    institution: University of Oslo, Norway
+    year: 2014
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/eirikeb
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
