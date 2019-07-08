@@ -40,7 +40,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = " "
+url_pdf = ""
 #url_pdf = "https://www.dropbox.com/s/ofsmwfxen0dzlh2/StockParticipationWithHousing.pdf?dl=0"
 url_preprint = ""
 url_code = ""
