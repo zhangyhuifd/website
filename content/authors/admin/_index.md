@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Economics and Finance
     institution: University of Wisconsin - Madison
-    year: 2020
+    year: 2021 (Expected)
   - course: MPhil in Economics
     institution: University of Oslo, Norway
     year: 2014
