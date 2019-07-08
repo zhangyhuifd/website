@@ -25,17 +25,17 @@ interests:
 - Household Finance
 - Finance
 
-education:
-  courses:
-  - course: PhD in Economics and Finance
-    institution: University of Wisconsin - Madison
-    year: 2021 (Expected)
-  - course: MPhil in Economics
-    institution: University of Oslo, Norway
-    year: 2014
-  - course: BA in Economics
-    institution: University of Bergen, Norway
-    year: 2012
+#education:
+#  courses:
+#  - course: PhD in Economics and Finance
+#    institution: University of Wisconsin - Madison
+#    year: 2021 (Expected)
+#  - course: MPhil in Economics
+#    institution: University of Oslo, Norway
+#    year: 2014
+#  - course: BA in Economics
+#    institution: University of Bergen, Norway
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
