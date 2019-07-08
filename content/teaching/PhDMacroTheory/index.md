@@ -28,5 +28,5 @@ This page only links to the old websites that hosts all the teaching material us
 * [Macro Theory I (Fall 2018)](https://sites.google.com/site/linshuoansonzhou/teaching/econ-712-ph-d-macroeconomic-theory-i-fall-2018)
 * [Macro Theory II (Spring 2018)](https://sites.google.com/site/eirikbrandsaas/teaching/econ714_2018)
 * [Macro Theory I (Fall 2017)](https://sites.google.com/site/eirikbrandsaas/teaching/econ712_2017)
-* [Preliminary Exam Tutor (2018)](https://sites.google.com/site/eirikbrandsaas/teaching/prelim2018
+* [Preliminary Exam Tutor (2018)](https://sites.google.com/site/eirikbrandsaas/teaching/prelim2018)
 * [Preliminary Exam Tutor (2017)](https://sites.google.com/site/eirikbrandsaas/teaching/prelim2017)
