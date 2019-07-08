@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include macroeconomics, household finance, housing and families.
 
-interests:
-- Macroeconomics
-- Household Finance
-- Finance
+# interests:
+#- Macroeconomics
+#- Household Finance
+#- Finance
 
 #education:
 #  courses:
