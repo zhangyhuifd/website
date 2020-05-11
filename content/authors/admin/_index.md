@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:eirikeb@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/eirikbrandsaas
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ndS3R7QAAAAJ
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth-year PhD student at the University of Wisconsin - Madison in Economics and Finance. My research interests are in macroeconomics, household finance, housing and portfolio choice theory.
+I am a sixth-year PhD student at the University of Wisconsin - Madison in Economics and Finance. My research interests are in macroeconomics, household finance, housing and portfolio choice theory.
 
 For more about my background see my [CV](https://www.dropbox.com/s/sxd6f146c1hm47y/cv_academic.pdf?dl=0).
